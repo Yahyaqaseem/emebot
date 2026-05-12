@@ -1,0 +1,131 @@
+{
+  "users": [
+    {
+      "user_id": 7384412246,
+      "username": "7384412246",
+      "plan": "vip",
+      "expire_date": "2026-6-12",
+      "added_date": "2026-05-12"
+    },
+    {
+      "user_id": 7076222374,
+      "username": "7076222374",
+      "plan": "vip",
+      "expire_date": "2026-12-31",
+      "added_date": "2026-05-12"
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "email": "gameryahya769@gmail.com",
+      "app_password": "tcot oypo nefc ijcy"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "subject": "tetetetetet",
+      "body": "ttt"
+    }
+  ],
+  "recipients": [],
+  "send_jobs": [
+    {
+      "message_id": 1,
+      "message_subject": "tetetetetet",
+      "recipients": [
+        "yahya2962010@gmail.com"
+      ],
+      "accounts": [
+        "gameryahya769@gmail.com"
+      ],
+      "count": 10,
+      "delay": 0,
+      "id": 1,
+      "status": "completed",
+      "results": [
+        {
+          "success": true,
+          "from": "gameryahya769@gmail.com",
+          "to": [
+            "yahya2962010@gmail.com"
+          ],
+          "error": null
+        },
+        {
+          "success": true,
+          "from": "gameryahya769@gmail.com",
+          "to": [
+            "yahya2962010@gmail.com"
+          ],
+          "error": null
+        },
+        {
+          "success": true,
+          "from": "gameryahya769@gmail.com",
+          "to": [
+            "yahya2962010@gmail.com"
+          ],
+          "error": null
+        },
+        {
+          "success": true,
+          "from": "gameryahya769@gmail.com",
+          "to": [
+            "yahya2962010@gmail.com"
+          ],
+          "error": null
+        },
+        {
+          "success": true,
+          "from": "gameryahya769@gmail.com",
+          "to": [
+            "yahya2962010@gmail.com"
+          ],
+          "error": null
+        },
+        {
+          "success": true,
+          "from": "gameryahya769@gmail.com",
+          "to": [
+            "yahya2962010@gmail.com"
+          ],
+          "error": null
+        },
+        {
+          "success": true,
+          "from": "gameryahya769@gmail.com",
+          "to": [
+            "yahya2962010@gmail.com"
+          ],
+          "error": null
+        },
+        {
+          "success": true,
+          "from": "gameryahya769@gmail.com",
+          "to": [
+            "yahya2962010@gmail.com"
+          ],
+          "error": null
+        },
+        {
+          "success": true,
+          "from": "gameryahya769@gmail.com",
+          "to": [
+            "yahya2962010@gmail.com"
+          ],
+          "error": null
+        },
+        {
+          "success": true,
+          "from": "gameryahya769@gmail.com",
+          "to": [
+            "yahya2962010@gmail.com"
+          ],
+          "error": null
+        }
+      ]
+    }
+  ]
+}
